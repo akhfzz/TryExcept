@@ -1,4 +1,5 @@
 import random
+input("membuat game tebak tebakan dengan merandom angka dan di tebak secara manual")
 tebak = 0
 bil = random.randint(1,30)
 def TebakAngka():
